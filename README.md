@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1a2e,60:16213e,100:6366F1&height=280&section=header&text=Himanshu%20Pandey&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20Hackathon%20Builder&descSize=17&descAlign=50&descAlignY=57&descColor=a5b4fc&animation=twinkling" width="100%"/>
+<!-- Custom Cyberpunk Animated Header Banner -->
+<img src="./assets/header-banner-v3.svg" width="100%" alt="Himanshu Pandey Header Banner"/>
+
+<br/><br/>
 
 <!-- Dynamic Typing Banner -->
 <a href="https://github.com/HQHimanshu">
@@ -38,6 +40,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
+<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```typescript
 const himanshu = {
   name:        "Himanshu Pandey",
@@ -45,16 +52,25 @@ const himanshu = {
   role:        "Full Stack Engineer & AI Systems Architect",
   teams:       ["Team Hexagon ⚡", "Team Terminators 🔥"],
   focus:       [
-                 "Autonomous AI Agents & Persistent Memory Systems",
-                 "Full-Stack Web Apps (React 18, FastAPI, Express, Node.js)",
-                 "IoT & Edge AI with Local Inference (Ollama + RAG)"
+                 "Autonomous AI Agents & Memory (Breeth MCP)",
+                 "Full-Stack Web Apps (React 18, FastAPI, Node)",
+                 "IoT & Edge AI Local Inference (Ollama RAG)"
                ],
   proudOf:     "3 live production apps shipped via hackathons",
   contact:     "hhimanshuppandey@gmail.com",
-  currentlyOn: "Building & Shipping → next.vercel.app 🚀",
   motto:       "Turn ambitious ideas into shipped software"
 };
 ```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="./assets/ascii-portrait.svg" width="100%" alt="Himanshu ASCII Matrix Graphic"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -356,6 +372,17 @@ Candidate Selected
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HQHimanshu&theme=tokyonight" width="95%" alt="Profile Summary"/>
 
 </div>
+
+<!-- ══════════════════════════════════════════════════════════
+     ANIMATED CONTRIBUTION SNAKE
+═══════════════════════════════════════════════════════════ -->
+## 🎮 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HQHimanshu/HQHimanshu/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HQHimanshu/HQHimanshu/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HQHimanshu/HQHimanshu/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
