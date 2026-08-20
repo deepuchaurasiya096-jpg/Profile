@@ -25,8 +25,8 @@
 <p>
   <a href="https://github.com/HQHimanshu"><img src="https://img.shields.io/badge/GitHub-HQHimanshu-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:hhimanshuppandey@gmail.com"><img src="https://img.shields.io/badge/Email-hhimanshuppandey-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://adaptive-interview-agent.vercel.app/"><img src="https://img.shields.io/badge/🤖_Live_AI_App-Adaptive_Agent-00C7B7?style=for-the-badge"/></a>
-  <a href="https://smart-clinic-dusky.vercel.app"><img src="https://img.shields.io/badge/🏥_Live_App-Smart_Clinic-0070F3?style=for-the-badge"/></a>
+  <a href="https://adaptive-interview-agent.vercel.app/"><img src="https://img.shields.io/badge/Live_AI_App-Adaptive_Agent-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://smart-clinic-dusky.vercel.app"><img src="https://img.shields.io/badge/Live_App-Smart_Clinic-0070F3?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://hqhimanshu.github.io/komi-app/"><img src="https://img.shields.io/badge/💬_Live_App-Komi_Platform-FF6B6B?style=for-the-badge"/></a>
 </p>
 
@@ -336,16 +336,24 @@ Candidate Selected
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HQHimanshu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=a5b4fc&text_color=e2e8f0"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HQHimanshu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=e2e8f0"/>
+<!-- Stats + Top Langs side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HQHimanshu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=a5b4fc&text_color=e2e8f0&rank_icon=github" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HQHimanshu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=e2e8f0" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HQHimanshu&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=a5b4fc&currStreakLabel=6366F1" alt="GitHub Streak Stats"/>
+<!-- Streak stats — using demolab (maintained, not deprecated heroku) -->
+<img src="https://streak-stats.demolab.com?user=HQHimanshu&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=a5b4fc&currStreakLabel=6366F1&sideLabels=e2e8f0&dates=a5b4fc" alt="GitHub Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HQHimanshu&bg_color=0D1117&color=a5b4fc&line=6366F1&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HQHimanshu&bg_color=0D1117&color=a5b4fc&line=6366F1&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" width="95%" alt="Contribution Activity Graph"/>
+
+<br/>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HQHimanshu&theme=tokyonight" width="95%" alt="Profile Summary"/>
 
 </div>
 
